@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hi, I am Pengrui (Barry) Han, an undergraduate student at Carleton College (MN, USA) studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whatever you're comfortable with!
+
+My research interests include Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Theory of Computing(THC), Mathematical Modeling, Convex & Non-convex Optimizations
+
+Recently, my research is focusing on generating synthetic data to debias Large Language Models (LLMS), modeling crime patterns using classic SIR models and agent models
+
+I'm all ears for collaborative ventures in math and computer science, and I'm totally open to stepping outside the domains I've mentioned! If you're up for a chat or an interesting collaboration, just hit me up at barryhan@carleton.edu. Looking forward to some amazing interactions and learning experiences!
