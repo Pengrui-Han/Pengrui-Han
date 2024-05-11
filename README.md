@@ -24,3 +24,5 @@ My research interests include Machine Learning (ML), Natural Language Processing
 Recently, my research is focusing on generating synthetic data to debias Large Language Models (LLMS), modeling crime patterns using classic SIR models and agent models
 
 I'm all ears for collaborative ventures in math and computer science, and I'm totally open to stepping outside the domains I've mentioned! If you're up for a chat or an interesting collaboration, just hit me up at barryhan@carleton.edu. Looking forward to some amazing interactions and learning experiences!
+
+[Last Update: 09/01/2023]
