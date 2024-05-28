@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I am Pengrui (Barry) Han, an undergraduate student at Carleton College (MN, USA) studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whatever you're comfortable with!
+I am Barry Pengrui Han, an undergraduate student at Carleton College (MN, USA) studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whatever you're comfortable with!
 
 My research interests include Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Theory of Computing(THC), Mathematical Modeling, Convex & Non-convex Optimizations
 
