@@ -23,8 +23,6 @@ I am a SURF Research Fellow at **Caltech**, where I am fortunate to work with Pr
 
 I am a Researcher in the [ULab](https://github.com/ulab-uiuc) at **UIUC**, advised by Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/).
 
-I am an intern at **NVDIA** [GearLab](https://research.nvidia.com/labs/gear/), advised by Dr. [Jim Fan](https://jimfan.me/).
-
 My current research interest is in machine learning, particularly in building intelligent agents. In the past, I have also worked on fair and human-centered AI, NLP, and more. You can find more on my [Google Scholar](https://scholar.google.com/citations?user=bSyG8UYAAAAJ&hl=en).
 
 I'm always open to collaborations. Please feel free to email me at barryhan@carleton.edu.
