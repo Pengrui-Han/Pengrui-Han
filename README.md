@@ -17,12 +17,16 @@ Here are some ideas to get you started:
 
 
 
-I am Pengrui Han(Barry), an undergraduate student at Carleton College (MN, USA) studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whatever you're comfortable with!
+I am **Pengrui Han (Barry)**, an undergraduate student at **Carleton College** (MN, USA), studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whichever you are comfortable with!
 
-My research interests include Machine Learning (ML), Natural Language Processing (NLP), Computer Vision (CV), Theory of Computing(THC), Mathematical Modeling, Convex & Non-convex Optimizations
+I am a SURF Research Fellow at **Caltech**, where I am fortunate to work with Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and Dr. [Rafał Kocielnik](http://www.rkocielnik.com/).
 
-Recently, my research is focusing on generating synthetic data to debias Large Language Models (LLMS), modeling crime patterns using classic SIR models and agent models
+I am a Researcher in the [ULab](https://github.com/ulab-uiuc) at **UIUC**, advised by Prof. [Jiaxuan You](https://cs.stanford.edu/people/jiaxuan/).
 
-I'm all ears for collaborative ventures in math and computer science, and I'm totally open to stepping outside the domains I've mentioned! If you're up for a chat or an interesting collaboration, just hit me up at barryhan@carleton.edu. Looking forward to some amazing interactions and learning experiences!
+My current research interest is in machine learning, particularly in building intelligent agents. In the past, I have also worked on fair and human-centered AI, NLP, and more. You can find more on my [Google Scholar](https://scholar.google.com/citations?user=bSyG8UYAAAAJ&hl=en).
 
-[Last Update: 09/01/2023]
+I'm always open to collaborations. Please feel free to email me at barryhan@carleton.edu.
+
+[Last Update: 07/01/2024]
+
+
