@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-I am **Pengrui Han (Barry)**, an undergraduate student at **Carleton College** (MN, USA), studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whichever you are comfortable with!
+I am **Pengrui Han (Barry)**, an undergraduate student at **Carleton College** (MN, US), studying Mathematics and Computer Science. Feel free to call me Pengrui or Barry, whichever you are comfortable with!
 
 I am a SURF Research Fellow at **Caltech**, where I am fortunate to work with Prof. [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and Dr. [Rafał Kocielnik](http://www.rkocielnik.com/).
 
