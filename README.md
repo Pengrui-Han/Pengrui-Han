@@ -26,7 +26,7 @@ I’m interested in **language and intelligence** in both humans and machines, p
 
 In the past, I have also worked on fair and human-centered AI, NLP, and more. You can find more on my [Google Scholar](https://scholar.google.com/citations?user=bSyG8UYAAAAJ&hl=en).
 
-I'm always open to collaborations. Please feel free to email me at barryhan@carleton.edu.
+I'm always open to collaborations. Please feel free to email me at phan12@illinois.edu.
 
 [Last Update: 04/15/2025]
 
