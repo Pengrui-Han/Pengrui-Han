@@ -22,7 +22,7 @@ I am also a researcher in the **MIT Brain and Cognitive Sciences** department, w
 
 During my undergrad, I was fortunate to work with [Prof. Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Dr. Rafał Kocielnik](http://www.rkocielnik.com/) at **Caltech**. I also previously interned at **NVIDIA**.
 
-I’m interested in **language and intelligence** in both humans and machines, particularly the role language plays in shaping intelligent behavior through comparisons between LLMs and humans. I analyze their behavioral capabilities and failures, examine internal mechanisms, and develop strategies to enhance intelligent machine systems.
+I’m interested in **language and intelligence** in both humans and machines, particularly the role language plays in shaping intelligent behavior, which I study through comparisons between LLMs and humans. I analyze their behavioral capabilities and failures, examine internal mechanisms, and develop strategies to enhance intelligent machine systems.
 
 In the past, I have also worked on fair and human-centered AI, NLP, and more. You can find more on my [Google Scholar](https://scholar.google.com/citations?user=bSyG8UYAAAAJ&hl=en).
 
