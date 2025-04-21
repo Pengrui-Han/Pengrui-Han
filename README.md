@@ -24,7 +24,7 @@ During my undergrad, I was fortunate to work with [Prof. Anima Anandkumar](http:
 
 I’m interested in **language and intelligence** in both humans and machines, particularly the role language plays in shaping intelligent behavior, which I study through comparisons between LLMs and humans. I analyze their behavioral capabilities and failures, examine internal mechanisms, and develop strategies to enhance intelligent machine systems.
 
-In the past, I have also worked on fair and human-centered AI, NLP, and more. You can find more on my [Google Scholar](https://scholar.google.com/citations?user=bSyG8UYAAAAJ&hl=en).
+In the past, I have also worked on fair and human-centered AI, NLP, and more. You can find more on my [Google Scholar](https://scholar.google.com/citations?user=bSyG8UYAAAAJ&hl=en) and [Personal Website](https://pengrui-han.github.io/).
 
 I'm always open to collaborations. Please feel free to email me at phan12@illinois.edu.
 
